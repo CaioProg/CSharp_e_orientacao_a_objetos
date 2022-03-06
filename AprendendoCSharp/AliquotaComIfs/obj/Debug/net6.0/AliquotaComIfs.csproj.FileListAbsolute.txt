@@ -1,0 +1,15 @@
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\bin\Debug\net6.0\AliquotaComIfs.exe
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\bin\Debug\net6.0\AliquotaComIfs.deps.json
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\bin\Debug\net6.0\AliquotaComIfs.runtimeconfig.json
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\bin\Debug\net6.0\AliquotaComIfs.dll
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\bin\Debug\net6.0\AliquotaComIfs.pdb
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.csproj.AssemblyReference.cache
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.AssemblyInfoInputs.cache
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.AssemblyInfo.cs
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.dll
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\refint\AliquotaComIfs.dll
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.pdb
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\AliquotaComIfs.genruntimeconfig.cache
+C:\CSharp\AprendendoCSharp\AliquotaComIfs\obj\Debug\net6.0\ref\AliquotaComIfs.dll
