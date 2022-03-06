@@ -14,12 +14,12 @@
 
             if (acompanhado == true)
             {
-               string mensagemAdicional = "João está acompanhado!";
+                mensagemAdicional = "João está acompanhado!";
                 Console.WriteLine(mensagemAdicional);
             }
             else
             {
-                string mensagemAdicional = "João não está acompanhado!";
+                 mensagemAdicional = "João não está acompanhado!";
             }
 
             if (idadeJoao >= 18 || acompanhado == true)
@@ -33,6 +33,8 @@
                 Console.WriteLine(mensagemAdicional);
 
             }
+
+
 
             Console.ReadLine();
         }
