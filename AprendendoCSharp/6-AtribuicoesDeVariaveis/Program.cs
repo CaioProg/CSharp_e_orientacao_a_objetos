@@ -15,6 +15,13 @@
             Console.WriteLine(idade);
             Console.WriteLine(idadeGustavo);
 
+            //Exercícios
+
+            string parcela_1 = "10";
+            string parcela_2 = "20";
+
+            Console.WriteLine(parcela_1 + parcela_2);
+
             Console.ReadLine();
         }
     }
