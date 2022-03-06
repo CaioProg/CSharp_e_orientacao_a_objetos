@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestaEscopo", "TestaEscopo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliquotaComIfs", "AliquotaComIfs\AliquotaComIfs.csproj", "{D6F5C2F9-168B-446E-AAF7-7533E6108A97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{016D4D00-0E3A-46A0-BA79-8C78F807524B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D6F5C2F9-168B-446E-AAF7-7533E6108A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6F5C2F9-168B-446E-AAF7-7533E6108A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6F5C2F9-168B-446E-AAF7-7533E6108A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016D4D00-0E3A-46A0-BA79-8C78F807524B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016D4D00-0E3A-46A0-BA79-8C78F807524B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016D4D00-0E3A-46A0-BA79-8C78F807524B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016D4D00-0E3A-46A0-BA79-8C78F807524B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
