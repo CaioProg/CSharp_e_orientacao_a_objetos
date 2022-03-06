@@ -10,13 +10,13 @@
             int quantidadePessoas = 1;
 
 
-            if (idadeJoao >= 18 )
+            if (idadeJoao >= 18)
             {
                 Console.WriteLine("Joao possui mais de 18 anos de idade. Pode entrar!");
-            } 
+            }
             else
             {
-                if(quantidadePessoas >= 2)
+                if (quantidadePessoas >= 2)
                 {
                     Console.WriteLine("João não possui mais de 18 anos mas está acompanhado, pode entrar!");
                 }
