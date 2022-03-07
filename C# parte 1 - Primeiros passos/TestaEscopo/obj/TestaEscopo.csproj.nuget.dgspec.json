@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\AprendendoCSharp\\TestaEscopo\\TestaEscopo.csproj": {}
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\TestaEscopo\\TestaEscopo.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\AprendendoCSharp\\TestaEscopo\\TestaEscopo.csproj": {
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\TestaEscopo\\TestaEscopo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\TestaEscopo\\TestaEscopo.csproj",
+        "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\TestaEscopo\\TestaEscopo.csproj",
         "projectName": "TestaEscopo",
-        "projectPath": "C:\\CSharp\\AprendendoCSharp\\TestaEscopo\\TestaEscopo.csproj",
+        "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\TestaEscopo\\TestaEscopo.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\AprendendoCSharp\\TestaEscopo\\obj\\",
+        "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\TestaEscopo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

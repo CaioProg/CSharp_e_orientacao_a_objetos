@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {}
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
+        "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
         "projectName": "4-ConversoesEOutrosTiposNumericos",
-        "projectPath": "C:\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
+        "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\obj\\",
+        "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\4-ConversoesEOutrosTiposNumericos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+      "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
       "projectName": "6-AtribuicoesDeVariaveis",
-      "projectPath": "C:\\CSharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+      "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\obj\\",
+      "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\6-AtribuicoesDeVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

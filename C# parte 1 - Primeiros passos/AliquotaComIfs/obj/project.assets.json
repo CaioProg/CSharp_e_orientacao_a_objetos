@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\AliquotaComIfs\\AliquotaComIfs.csproj",
+      "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\AliquotaComIfs\\AliquotaComIfs.csproj",
       "projectName": "AliquotaComIfs",
-      "projectPath": "C:\\CSharp\\AprendendoCSharp\\AliquotaComIfs\\AliquotaComIfs.csproj",
+      "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\AliquotaComIfs\\AliquotaComIfs.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\AprendendoCSharp\\AliquotaComIfs\\obj\\",
+      "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\AliquotaComIfs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

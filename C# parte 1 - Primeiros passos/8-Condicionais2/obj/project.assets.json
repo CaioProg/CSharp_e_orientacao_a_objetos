@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+      "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\8-Condicionais2\\8-Condicionais2.csproj",
       "projectName": "8-Condicionais2",
-      "projectPath": "C:\\CSharp\\AprendendoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+      "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\8-Condicionais2\\8-Condicionais2.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\AprendendoCSharp\\8-Condicionais2\\obj\\",
+      "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\8-Condicionais2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\AprendendoCSharp\\Switch\\Switch.csproj": {}
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\Switch\\Switch.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\AprendendoCSharp\\Switch\\Switch.csproj": {
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\Switch\\Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\Switch\\Switch.csproj",
+        "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\Switch\\Switch.csproj",
         "projectName": "Switch",
-        "projectPath": "C:\\CSharp\\AprendendoCSharp\\Switch\\Switch.csproj",
+        "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\Switch\\Switch.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\AprendendoCSharp\\Switch\\obj\\",
+        "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\Switch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+      "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\7-Condicionais\\7-Condicionais.csproj",
       "projectName": "7-Condicionais",
-      "projectPath": "C:\\CSharp\\AprendendoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+      "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\7-Condicionais\\7-Condicionais.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\AprendendoCSharp\\7-Condicionais\\obj\\",
+      "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\7-Condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

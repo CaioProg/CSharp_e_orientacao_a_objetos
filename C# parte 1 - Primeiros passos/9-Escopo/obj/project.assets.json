@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\9-Escopo\\9-Escopo.csproj",
+      "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\9-Escopo\\9-Escopo.csproj",
       "projectName": "9-Escopo",
-      "projectPath": "C:\\CSharp\\AprendendoCSharp\\9-Escopo\\9-Escopo.csproj",
+      "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\9-Escopo\\9-Escopo.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\AprendendoCSharp\\9-Escopo\\obj\\",
+      "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\9-Escopo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

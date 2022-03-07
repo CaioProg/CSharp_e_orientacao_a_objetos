@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {}
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\5-CaracteresETextos\\5-CaracteresETextos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+        "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
         "projectName": "5-CaracteresETextos",
-        "projectPath": "C:\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
+        "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\5-CaracteresETextos\\5-CaracteresETextos.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\obj\\",
+        "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\5-CaracteresETextos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

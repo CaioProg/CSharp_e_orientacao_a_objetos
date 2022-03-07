@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
       "projectName": "3-CriandoVariaveisPontoFlutuante",
-      "projectPath": "C:\\CSharp\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\obj\\",
+      "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\3-CriandoVariaveisPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

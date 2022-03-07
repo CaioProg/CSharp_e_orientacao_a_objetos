@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {}
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {
+    "C:\\CSharp\\C# parte 1 - Primeiros passos\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\CSharp\\C# parte 1 - Primeiros passos\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
         "projectName": "1-PrimeiroProjeto",
-        "projectPath": "C:\\CSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+        "projectPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\obj\\",
+        "outputPath": "C:\\CSharp\\C# parte 1 - Primeiros passos\\1-PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
