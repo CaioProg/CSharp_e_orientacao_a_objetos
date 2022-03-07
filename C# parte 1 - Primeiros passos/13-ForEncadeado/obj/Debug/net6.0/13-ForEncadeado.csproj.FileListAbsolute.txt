@@ -1,0 +1,15 @@
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\bin\Debug\net6.0\13-ForEncadeado.exe
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\bin\Debug\net6.0\13-ForEncadeado.deps.json
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\bin\Debug\net6.0\13-ForEncadeado.runtimeconfig.json
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\bin\Debug\net6.0\13-ForEncadeado.dll
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\bin\Debug\net6.0\13-ForEncadeado.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.csproj.AssemblyReference.cache
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.AssemblyInfoInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.AssemblyInfo.cs
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.dll
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\refint\13-ForEncadeado.dll
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\13-ForEncadeado.genruntimeconfig.cache
+C:\CSharp\C# parte 1 - Primeiros passos\13-ForEncadeado\obj\Debug\net6.0\ref\13-ForEncadeado.dll
