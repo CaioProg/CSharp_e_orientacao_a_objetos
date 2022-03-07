@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ForEncadeado", "13-ForEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErroNaCompilacao", "ErroNaCompilacao\ErroNaCompilacao.csproj", "{8DB7FE0E-BF63-4418-93C6-F2CAE1CFFCFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercitandoLacosAninhadosEBreak", "ExercitandoLacosAninhadosEBreak\ExercitandoLacosAninhadosEBreak.csproj", "{A8B8B332-42F8-4AFC-914B-96662A8B217E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor", "LacoDeRepeticaoFor\LacoDeRepeticaoFor.csproj", "{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{8DB7FE0E-BF63-4418-93C6-F2CAE1CFFCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DB7FE0E-BF63-4418-93C6-F2CAE1CFFCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DB7FE0E-BF63-4418-93C6-F2CAE1CFFCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\bin\Debug\net6.0\ExercitandoLacosAninhadosEBreak.exe
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\bin\Debug\net6.0\ExercitandoLacosAninhadosEBreak.deps.json
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\bin\Debug\net6.0\ExercitandoLacosAninhadosEBreak.runtimeconfig.json
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\bin\Debug\net6.0\ExercitandoLacosAninhadosEBreak.dll
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\bin\Debug\net6.0\ExercitandoLacosAninhadosEBreak.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.csproj.AssemblyReference.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.AssemblyInfoInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.AssemblyInfo.cs
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.csproj.CoreCompileInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.dll
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\refint\ExercitandoLacosAninhadosEBreak.dll
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ExercitandoLacosAninhadosEBreak.genruntimeconfig.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ExercitandoLacosAninhadosEBreak\obj\Debug\net6.0\ref\ExercitandoLacosAninhadosEBreak.dll
