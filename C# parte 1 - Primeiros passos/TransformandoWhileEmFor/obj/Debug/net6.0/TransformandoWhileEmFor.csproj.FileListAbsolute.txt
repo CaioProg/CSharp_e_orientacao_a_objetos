@@ -1,0 +1,15 @@
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\bin\Debug\net6.0\TransformandoWhileEmFor.exe
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\bin\Debug\net6.0\TransformandoWhileEmFor.deps.json
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\bin\Debug\net6.0\TransformandoWhileEmFor.runtimeconfig.json
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\bin\Debug\net6.0\TransformandoWhileEmFor.dll
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\bin\Debug\net6.0\TransformandoWhileEmFor.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.csproj.AssemblyReference.cache
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.AssemblyInfoInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.AssemblyInfo.cs
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.csproj.CoreCompileInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.dll
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\refint\TransformandoWhileEmFor.dll
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\TransformandoWhileEmFor.genruntimeconfig.cache
+C:\CSharp\C# parte 1 - Primeiros passos\TransformandoWhileEmFor\obj\Debug\net6.0\ref\TransformandoWhileEmFor.dll

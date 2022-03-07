@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-CalculaPoupanca2", "11-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-CalculaInvestimentoLongoPrazo", "12-CalculaInvestimentoLongoPrazo\12-CalculaInvestimentoLongoPrazo.csproj", "{96FD59D7-5255-4868-B752-EDCA497F569D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformandoWhileEmFor", "TransformandoWhileEmFor\TransformandoWhileEmFor.csproj", "{29602D47-2B6C-4A3B-A294-4EC99F0827F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{96FD59D7-5255-4868-B752-EDCA497F569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96FD59D7-5255-4868-B752-EDCA497F569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96FD59D7-5255-4868-B752-EDCA497F569D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29602D47-2B6C-4A3B-A294-4EC99F0827F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29602D47-2B6C-4A3B-A294-4EC99F0827F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29602D47-2B6C-4A3B-A294-4EC99F0827F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29602D47-2B6C-4A3B-A294-4EC99F0827F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
