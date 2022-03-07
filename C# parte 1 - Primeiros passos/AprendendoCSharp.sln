@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErroNaCompilacao", "ErroNaC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercitandoLacosAninhadosEBreak", "ExercitandoLacosAninhadosEBreak\ExercitandoLacosAninhadosEBreak.csproj", "{A8B8B332-42F8-4AFC-914B-96662A8B217E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoDeRepeticaoFor", "LacoDeRepeticaoFor\LacoDeRepeticaoFor.csproj", "{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosDe3", "MultiplosDe3\MultiplosDe3.csproj", "{F40C9AD3-DFCD-4FD0-8BC3-0F8438314063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,10 +125,10 @@ Global
 		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8B8B332-42F8-4AFC-914B-96662A8B217E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6972A1BE-0A74-45A0-9386-C3B2C11C4B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40C9AD3-DFCD-4FD0-8BC3-0F8438314063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40C9AD3-DFCD-4FD0-8BC3-0F8438314063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40C9AD3-DFCD-4FD0-8BC3-0F8438314063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40C9AD3-DFCD-4FD0-8BC3-0F8438314063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

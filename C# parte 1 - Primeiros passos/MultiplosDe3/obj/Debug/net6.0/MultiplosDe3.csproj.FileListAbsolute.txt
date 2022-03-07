@@ -1,0 +1,15 @@
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\bin\Debug\net6.0\MultiplosDe3.exe
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\bin\Debug\net6.0\MultiplosDe3.deps.json
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\bin\Debug\net6.0\MultiplosDe3.runtimeconfig.json
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\bin\Debug\net6.0\MultiplosDe3.dll
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\bin\Debug\net6.0\MultiplosDe3.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.csproj.AssemblyReference.cache
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.AssemblyInfoInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.AssemblyInfo.cs
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.csproj.CoreCompileInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.dll
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\refint\MultiplosDe3.dll
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\MultiplosDe3.genruntimeconfig.cache
+C:\CSharp\C# parte 1 - Primeiros passos\MultiplosDe3\obj\Debug\net6.0\ref\MultiplosDe3.dll
