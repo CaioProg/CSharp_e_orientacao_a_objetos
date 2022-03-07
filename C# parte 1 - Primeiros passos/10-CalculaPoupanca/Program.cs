@@ -16,7 +16,7 @@ class Programa
         double valorInvestido = 200000;
         int contadorMes = 1;
 
-        while (contadorMes <= 12)
+        while (contadorMes <= 36)
             {
             valorInvestido = valorInvestido + valorInvestido * 0.0076;
             Console.WriteLine("Após " + contadorMes + " meses, você terá " + valorInvestido);

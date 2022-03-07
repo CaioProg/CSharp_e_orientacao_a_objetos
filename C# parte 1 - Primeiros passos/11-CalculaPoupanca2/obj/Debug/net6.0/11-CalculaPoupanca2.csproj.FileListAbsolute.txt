@@ -1,0 +1,15 @@
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.AssemblyInfo.cs
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\bin\Debug\net6.0\11-CalculaPoupanca2.exe
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\bin\Debug\net6.0\11-CalculaPoupanca2.deps.json
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\bin\Debug\net6.0\11-CalculaPoupanca2.runtimeconfig.json
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\bin\Debug\net6.0\11-CalculaPoupanca2.dll
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\bin\Debug\net6.0\11-CalculaPoupanca2.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.dll
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\refint\11-CalculaPoupanca2.dll
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\11-CalculaPoupanca2.genruntimeconfig.cache
+C:\CSharp\C# parte 1 - Primeiros passos\11-CalculaPoupanca2\obj\Debug\net6.0\ref\11-CalculaPoupanca2.dll
