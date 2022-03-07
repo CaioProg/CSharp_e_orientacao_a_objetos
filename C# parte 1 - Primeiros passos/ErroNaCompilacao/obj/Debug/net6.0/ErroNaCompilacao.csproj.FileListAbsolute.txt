@@ -1,0 +1,15 @@
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\bin\Debug\net6.0\ErroNaCompilacao.exe
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\bin\Debug\net6.0\ErroNaCompilacao.deps.json
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\bin\Debug\net6.0\ErroNaCompilacao.runtimeconfig.json
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\bin\Debug\net6.0\ErroNaCompilacao.dll
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\bin\Debug\net6.0\ErroNaCompilacao.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.csproj.AssemblyReference.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.AssemblyInfoInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.AssemblyInfo.cs
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.csproj.CoreCompileInputs.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.dll
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\refint\ErroNaCompilacao.dll
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.pdb
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ErroNaCompilacao.genruntimeconfig.cache
+C:\CSharp\C# parte 1 - Primeiros passos\ErroNaCompilacao\obj\Debug\net6.0\ref\ErroNaCompilacao.dll
