@@ -8,8 +8,20 @@ namespace _06_ByteBank
 {
     public class Cliente
     {
-        public string nome;
-        public string cpf;
-        public string profissao;
+        private string _cpf;
+
+        public string Nome { get; set; }
+        public string Cpf {
+            get
+            {
+                return _cpf;
+            }
+            set
+            {
+                //Escrevo minha logica de validação de cpf
+                _cpf = value;   
+            } 
+        public string Profissao { get; set; }
+
     }
 }
