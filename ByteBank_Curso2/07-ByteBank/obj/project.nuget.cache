@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lepcEMh4gP5oyP5BwSY/obftrkMhBopTgPv2b8Z3xcWQBsYDqP92S5xUOaAxuVo3RiYMlmPAMk6vEF3rY2NLDw==",
+  "dgSpecHash": "MF27Ck3xFXHQ1avBKGY8YC6zDO1gzmzCgtn2WYXU8FkyDSG/Wiw88aPiomVjk0alFObejN1E4lrwkm1gSuwpQg==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\ByteBank\\07-ByteBank\\07-ByteBank.csproj",
+  "projectFilePath": "C:\\CSharp\\ByteBank_Curso2\\07-ByteBank\\07-ByteBank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

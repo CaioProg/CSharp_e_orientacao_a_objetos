@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\ByteBank\\04-ByteBank\\04-ByteBank.csproj": {}
+    "C:\\CSharp\\ByteBank_Curso2\\04-ByteBank\\04-ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\ByteBank\\04-ByteBank\\04-ByteBank.csproj": {
+    "C:\\CSharp\\ByteBank_Curso2\\04-ByteBank\\04-ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\ByteBank\\04-ByteBank\\04-ByteBank.csproj",
+        "projectUniqueName": "C:\\CSharp\\ByteBank_Curso2\\04-ByteBank\\04-ByteBank.csproj",
         "projectName": "04-ByteBank",
-        "projectPath": "C:\\CSharp\\ByteBank\\04-ByteBank\\04-ByteBank.csproj",
+        "projectPath": "C:\\CSharp\\ByteBank_Curso2\\04-ByteBank\\04-ByteBank.csproj",
         "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\ByteBank\\04-ByteBank\\obj\\",
+        "outputPath": "C:\\CSharp\\ByteBank_Curso2\\04-ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

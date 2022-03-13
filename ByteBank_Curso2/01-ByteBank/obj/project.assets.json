@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+      "projectUniqueName": "C:\\CSharp\\ByteBank_Curso2\\01-ByteBank\\01-ByteBank.csproj",
       "projectName": "01-ByteBank",
-      "projectPath": "C:\\CSharp\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+      "projectPath": "C:\\CSharp\\ByteBank_Curso2\\01-ByteBank\\01-ByteBank.csproj",
       "packagesPath": "C:\\Users\\CaioLucas\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\ByteBank\\01-ByteBank\\obj\\",
+      "outputPath": "C:\\CSharp\\ByteBank_Curso2\\01-ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CaioLucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
