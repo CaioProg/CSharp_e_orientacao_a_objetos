@@ -21,18 +21,22 @@ namespace ByteBank
             GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
 
-            Designer pedro = new Designer("833.987.888.78");
+            Funcionario pedro = new Designer("833.987.888.78");
             pedro.Nome = "Pedro";
 
-            Diretor roberta = new Diretor("555.666.777.88");
+            Funcionario roberta = new Diretor("555.666.777.88");
             roberta.Nome = "Roberta";
 
-            Auxiliar igor = new Auxiliar("456.584.832-92");
+            Funcionario igor = new Auxiliar("456.584.832-92");
             igor.Nome = "Igor";
 
-            GerenteDeConta camila = new GerenteDeConta("456.324.854-25");
+            Funcionario camila = new GerenteDeConta("456.324.854-25");
             camila.Nome = "Camila";
 
+            Desenvolvedor caio = new Desenvolvedor("145.898.888.15");
+            caio.Nome = "Caio";
+
+            gerenciadorBonificacao.Registrar(caio);
             gerenciadorBonificacao.Registrar(pedro);
             gerenciadorBonificacao.Registrar(roberta);
             gerenciadorBonificacao.Registrar(igor);
