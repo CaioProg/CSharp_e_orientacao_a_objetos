@@ -10,6 +10,10 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
+
+            ContaCorrente conta = new ContaCorrente(35445, 111111);
+            
+
             try
             {
                 Metodo();
