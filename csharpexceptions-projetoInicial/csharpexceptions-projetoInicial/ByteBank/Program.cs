@@ -16,6 +16,12 @@ namespace ByteBank
             }
             catch(ArgumentException ex)
             {
+                if(ex.ParamName == "agencia")
+                {
+
+                }
+
+                Console.WriteLine("Argumento com problema: " + ex.ParamName);
                 Console.WriteLine("Ocorreu uma exceção do tipo ArgumentException");
             }
 
