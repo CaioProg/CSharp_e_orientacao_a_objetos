@@ -14,37 +14,10 @@ namespace ByteBank
             try
             {
                 CarregarContas();
-
-                ContaCorrente conta = new ContaCorrente(55, 50);
-                ContaCorrente conta2 = new ContaCorrente(555, 6666);
-
-                conta2.Transferir(-10, conta);
-
-                conta.Depositar(50);
-                Console.WriteLine(conta.Saldo);
-                conta.Sacar(-500);
-                Console.WriteLine(conta.Saldo);
-
             }
-            catch (ArgumentException ex)
+            catch (Exception)
             {
-                if(ex.ParamName == "numero")
-                {
-
-                }
-
-                Console.WriteLine("Argumento com problema: " + ex.ParamName);
-                Console.WriteLine("Ocorreu uma exceção do tipo ArgumentException");
-                Console.WriteLine(ex.Message);
-            }
-            catch (SaldoInsuficienteException ex)
-            {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine("Exceção do tipo SaldoInsuficienteException");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("CATCH NO METODO MAIN");
             }
 
             Metodo();
@@ -54,29 +27,35 @@ namespace ByteBank
 
         private static void CarregarContas()
         {
-            LeitorDeArquivo leitor = null;
-
-            try
+            using(LeitorDeArquivo leitor = new LeitorDeArquivo("teste.txt"))
             {
-                leitor = new LeitorDeArquivo("contasl.txt");
-
                 leitor.LerProximaLinha();
-                leitor.LerProximaLinha();
-                leitor.LerProximaLinha();
+            }
 
-            }
-            catch (IOException)
-            {
 
-                Console.WriteLine("Exceção do tipo IOException capturada e tratada!");
-            }
-            finally
-            {
-                if(leitor != null)
-                {
-                    leitor.Fechar();
-                }
-            }
+
+            // --------------------------------
+
+            //LeitorDeArquivo leitor = null;
+
+            //try
+            //{
+            //    leitor = new LeitorDeArquivo("contasl.txt");
+
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Executando o finally");
+
+            //    if(leitor != null)
+            //    {
+            //        leitor.Fechar();
+            //    }
+            //}
         }
 
         //Teste com a cadeia de chamada:

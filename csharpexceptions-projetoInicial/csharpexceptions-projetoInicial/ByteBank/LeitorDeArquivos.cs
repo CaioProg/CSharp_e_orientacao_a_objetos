@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank
 {
-    public class LeitorDeArquivo
+    public class LeitorDeArquivo : IDisposable
     {
         public string Arquivo { get; }
 
@@ -29,9 +29,10 @@ namespace ByteBank
             return "Linha do arquivo";
         }
 
-        public void Fechar()
+        public void Dispose()
         {
             Console.WriteLine("Fechando arquivo.");
+
         }
     }
 }
