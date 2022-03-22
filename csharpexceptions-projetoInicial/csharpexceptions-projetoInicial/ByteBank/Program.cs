@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +13,8 @@ namespace ByteBank
         {
             try
             {
+                CarregarContas();
+
                 ContaCorrente conta = new ContaCorrente(55, 50);
                 ContaCorrente conta2 = new ContaCorrente(555, 6666);
 
@@ -48,6 +51,34 @@ namespace ByteBank
             
             Console.ReadLine();
         }
+
+        private static void CarregarContas()
+        {
+            LeitorDeArquivo leitor = null;
+
+            try
+            {
+                leitor = new LeitorDeArquivo("contasl.txt");
+
+                leitor.LerProximaLinha();
+                leitor.LerProximaLinha();
+                leitor.LerProximaLinha();
+
+            }
+            catch (IOException)
+            {
+
+                Console.WriteLine("Exceção do tipo IOException capturada e tratada!");
+            }
+            finally
+            {
+                if(leitor != null)
+                {
+                    leitor.Fechar();
+                }
+            }
+        }
+
         //Teste com a cadeia de chamada:
         //Metodo -> TestaDivisao -> Dividir
         private static void Metodo()
