@@ -1,0 +1,15 @@
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\bin\Debug\net6.0\ByteBank.SistemaAgencia.exe
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\bin\Debug\net6.0\ByteBank.SistemaAgencia.deps.json
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\bin\Debug\net6.0\ByteBank.SistemaAgencia.runtimeconfig.json
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\bin\Debug\net6.0\ByteBank.SistemaAgencia.dll
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\bin\Debug\net6.0\ByteBank.SistemaAgencia.pdb
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.AssemblyInfoInputs.cache
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.AssemblyInfo.cs
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.dll
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\refint\ByteBank.SistemaAgencia.dll
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.pdb
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ByteBank.SistemaAgencia.genruntimeconfig.cache
+C:\CSharp\ByteBankSystem\ByteBank.SistemaAgencia\obj\Debug\net6.0\ref\ByteBank.SistemaAgencia.dll
