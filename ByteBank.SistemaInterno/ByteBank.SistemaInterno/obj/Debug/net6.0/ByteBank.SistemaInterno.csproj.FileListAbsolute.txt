@@ -1,0 +1,17 @@
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.SistemaInterno.exe
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.SistemaInterno.deps.json
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.SistemaInterno.runtimeconfig.json
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.SistemaInterno.dll
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.SistemaInterno.pdb
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.Modelos.dll
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.csproj.AssemblyReference.cache
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.AssemblyInfoInputs.cache
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.AssemblyInfo.cs
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.csproj.CoreCompileInputs.cache
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.csproj.CopyComplete
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.dll
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\refint\ByteBank.SistemaInterno.dll
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.pdb
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.genruntimeconfig.cache
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ref\ByteBank.SistemaInterno.dll
