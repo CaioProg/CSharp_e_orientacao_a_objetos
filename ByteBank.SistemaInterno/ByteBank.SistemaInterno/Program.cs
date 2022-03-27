@@ -16,7 +16,7 @@ namespace ByteBank.SistemaAgencia
 
             Console.WriteLine(conta.Saldo);
 
-            
+            new ContaCorrente(456, 848484);
 
             conta.Sacar(-10);
             string nome = "Caio";
