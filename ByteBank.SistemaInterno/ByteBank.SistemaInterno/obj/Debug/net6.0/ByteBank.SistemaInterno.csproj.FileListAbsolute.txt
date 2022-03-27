@@ -15,3 +15,4 @@ C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\refin
 C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.pdb
 C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ByteBank.SistemaInterno.genruntimeconfig.cache
 C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\net6.0\ref\ByteBank.SistemaInterno.dll
+C:\CSharp\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\net6.0\ByteBank.Modelos.xml
