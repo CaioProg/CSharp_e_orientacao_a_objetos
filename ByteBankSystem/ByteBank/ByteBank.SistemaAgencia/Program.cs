@@ -14,12 +14,26 @@ namespace ByteBank.SistemaAgencia
         static void Main(string[] args)
         {
 
-            string url = "pagina?argumentos";
-            
+
+            string textoVazio = "teste";
+            Console.WriteLine(string.IsNullOrEmpty(textoVazio));
+
+            Console.ReadLine();
+
+
+            ExtratorValorDeArgumentosURL extrator = new ExtratorValorDeArgumentosURL(null);
+
+            string url = "pagina?moedaOrigiem=real&moedaDestino=dolar";
+
+            int indiceInterrogacao = url.IndexOf('?');
+
+            Console.WriteLine(indiceInterrogacao);
+
             Console.WriteLine(url);
-            string argumentos = url.Substring(7);
+            string argumentos = url.Substring(indiceInterrogacao + 1);
             Console.WriteLine(argumentos);
 
+         
 
 
 
