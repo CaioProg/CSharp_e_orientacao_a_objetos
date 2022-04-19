@@ -15,8 +15,24 @@ namespace ByteBank.SistemaAgencia
         {
 
 
-            string textoVazio = "teste";
-            Console.WriteLine(string.IsNullOrEmpty(textoVazio));
+            string palavra = "moedaOrigiem=real&moedaDestino=dolar";
+            string nomeArgumento = "moedaDestino";
+
+            int indice = palavra.IndexOf(nomeArgumento);
+            Console.WriteLine(indice);
+
+            Console.WriteLine("Tamanho da string nomeArgumento: " + nomeArgumento.Length);
+
+            Console.WriteLine(palavra);
+            Console.WriteLine(palavra.Substring(indice));
+            Console.WriteLine(palavra.Substring(indice + nomeArgumento.Length + 1));
+            Console.ReadLine();
+
+
+
+
+            string textoVazio = "";
+            Console.WriteLine(String.IsNullOrEmpty(textoVazio));
 
             Console.ReadLine();
 
