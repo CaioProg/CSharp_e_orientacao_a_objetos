@@ -13,10 +13,30 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            string urlParametros = "http://www.bytebank.com/cambio?moedaOrigem=real&moedaDestino=dolar&valor=1500";
+            ExtratorValorDeArgumentosURL extratorDeValores = new ExtratorValorDeArgumentosURL(urlParametros);
+
+            string valor = extratorDeValores.GetValor("moedaDestino");
+            Console.WriteLine("Valor de moedaDestino: " + valor);
+
+            string valorMoedaOrigem = extratorDeValores.GetValor("moedaOrigem");
+            Console.WriteLine("Valor de moedaOrigem: " + valorMoedaOrigem);
+
+            Console.WriteLine(extratorDeValores.GetValor("Valor"));
 
 
-            string palavra = "moedaOrigiem=real&moedaDestino=dolar";
-            string nomeArgumento = "moedaDestino";
+            Console.ReadLine();
+
+
+            // Testando o método Remove
+            string testeRemocao = "primeiraParte&123456789";
+            int indiceEComercial = testeRemocao.IndexOf('&');
+            Console.WriteLine(testeRemocao.Remove(indiceEComercial, 4));
+            Console.ReadLine();
+
+
+            string palavra = "moedaOrigiem=moedaDestino&moedaDestino=dolar";
+            string nomeArgumento = "moedaDestino=";
 
             int indice = palavra.IndexOf(nomeArgumento);
             Console.WriteLine(indice);
@@ -25,7 +45,7 @@ namespace ByteBank.SistemaAgencia
 
             Console.WriteLine(palavra);
             Console.WriteLine(palavra.Substring(indice));
-            Console.WriteLine(palavra.Substring(indice + nomeArgumento.Length + 1));
+            Console.WriteLine(palavra.Substring(indice + nomeArgumento.Length));
             Console.ReadLine();
 
 
