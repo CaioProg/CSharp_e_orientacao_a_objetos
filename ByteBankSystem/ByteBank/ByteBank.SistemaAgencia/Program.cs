@@ -22,9 +22,25 @@ namespace ByteBank.SistemaAgencia
             string valorMoedaOrigem = extratorDeValores.GetValor("moedaOrigem");
             Console.WriteLine("Valor de moedaOrigem: " + valorMoedaOrigem);
 
-            Console.WriteLine(extratorDeValores.GetValor("Valor"));
+            Console.WriteLine(extratorDeValores.GetValor("VALOR"));
 
+            Console.ReadLine();
 
+            // Testando ToLower/ToUpper
+            string mensagemOrigem = "PALAVRA";
+            string termoBusca = "ra";
+
+            Console.WriteLine(termoBusca.ToUpper());
+            Console.WriteLine(mensagemOrigem.ToLower());
+
+            // Testando Replace
+            termoBusca = termoBusca.Replace('r', 'R');
+            Console.WriteLine(termoBusca);
+
+            termoBusca = termoBusca.Replace('a', 'A');
+            Console.WriteLine(termoBusca);
+
+            Console.WriteLine(mensagemOrigem.IndexOf(termoBusca));
             Console.ReadLine();
 
 
