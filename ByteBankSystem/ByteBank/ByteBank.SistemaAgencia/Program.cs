@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using ByteBank.Modelos;
 using ByteBank.Modelos.Funcionarios;
@@ -13,6 +14,25 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+
+
+            // Olá, meu nome é Caio e você pode entrar em contato comigo 
+            // através do número 9999-9999!
+
+            // Meu nome é Caio, me  ligue em 9999-9899
+
+            string padrao = "[0123456789][0123456789][0123456789][0123456789][-][0123456789][0123456789][0123456789][0123456789]";
+            string textoDeTeste = "Meu nome é Caio, me  ligue em 9999-9899";
+
+            Match resultado = (Regex.Match(textoDeTeste, padrao));
+
+
+            Console.WriteLine(resultado);
+
+            Console.ReadLine();
+
+
+
             string urlTeste = "https://www.bytebank.com/cambio";
             int indiceByteBank = urlTeste.IndexOf("https://www.bytebank.com");
 
