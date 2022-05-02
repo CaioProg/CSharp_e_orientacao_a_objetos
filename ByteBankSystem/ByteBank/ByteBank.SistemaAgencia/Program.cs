@@ -34,9 +34,19 @@ namespace ByteBank.SistemaAgencia
 
 
             Console.WriteLine(resultado.Value);
-
             Console.ReadLine();
 
+
+            // Exercicio
+            //string padrao1 = "Sala [A-G][-]?[0123456789]{2}";
+
+            //Console.WriteLine(Regex.IsMatch("Sala G345", padrao1));
+            //Console.WriteLine(Regex.IsMatch("Sala J-001", padrao1));
+            //Console.WriteLine(Regex.IsMatch("Sala a004", padrao1));
+            //Console.WriteLine(Regex.IsMatch("Sala C004", padrao1));
+            //Console.WriteLine(Regex.IsMatch("Minha sala é a sala G34", padrao1));
+            //Console.WriteLine(Regex.IsMatch("Minha sala é a Sala G-34", padrao1));
+            Console.ReadLine();
 
 
             string urlTeste = "https://www.bytebank.com/cambio";
