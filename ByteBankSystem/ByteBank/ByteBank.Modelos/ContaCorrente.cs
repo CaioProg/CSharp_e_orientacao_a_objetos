@@ -116,7 +116,7 @@ namespace ByteBank.Modelos
 
         public override string ToString()
         {
-            return $"Número {45545 + 654564 -7}, Agência {Agencia}, Saldo {Saldo}";
+            return $"Número {Numero}, Agência {Agencia}, Saldo {Saldo}";
             //return "Número " + Numero + ", Agência " + Agencia + ", Saldo " + Saldo;
         }
     }
