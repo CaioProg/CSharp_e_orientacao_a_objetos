@@ -14,8 +14,21 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá, mundo!");
+            Console.WriteLine(123);
+            Console.WriteLine(10.5);
+            Console.WriteLine(true);
 
+            object conta = new ContaCorrente(456, 12212);
+            object desenvolvedor = new Desenvolvedor("245548545");
 
+            Console.WriteLine(conta);
+
+            Console.ReadLine();
+        }
+
+        static void TestaString()
+        {
             // Olá, meu nome é Caio e você pode entrar em contato comigo 
             // através do número 9999-9999!
 
@@ -54,11 +67,11 @@ namespace ByteBank.SistemaAgencia
 
             Console.WriteLine(urlTeste.StartsWith("https://www.bytebank.com"));
             Console.WriteLine(urlTeste.EndsWith("cambio/"));
-            
+
             Console.WriteLine(urlTeste.Contains("ByteBank"));
 
             Console.ReadLine();
-            
+
             // pagina?argumentos
             // 012345678
 
@@ -136,11 +149,9 @@ namespace ByteBank.SistemaAgencia
             string argumentos = url.Substring(indiceInterrogacao + 1);
             Console.WriteLine(argumentos);
 
-         
 
 
 
-            Console.ReadLine();
         }
     }
 }
