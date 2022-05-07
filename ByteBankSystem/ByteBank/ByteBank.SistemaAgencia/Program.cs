@@ -16,7 +16,8 @@ namespace ByteBank.SistemaAgencia
         {
             // ARRAY de inteiros, com 5 posições
 
-            int[] idades = new int [5];
+            int[] idades = null;
+            idades =  new int[5];
 
             idades[0] = 15;
             idades[1] = 19;
@@ -24,7 +25,11 @@ namespace ByteBank.SistemaAgencia
             idades[3] = 25;
             idades[4] = 30;
 
-            Console.WriteLine(idades[1]);
+            int indice = 3;
+            int idadeNoIndice4 = idades[indice];
+
+            Console.WriteLine(idadeNoIndice4);
+
 
 
             Console.ReadLine();
