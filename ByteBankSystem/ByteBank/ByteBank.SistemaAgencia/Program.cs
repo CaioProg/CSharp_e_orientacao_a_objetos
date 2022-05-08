@@ -14,21 +14,47 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            ListaDeContaCorrente lista = new ListaDeContaCorrente();
 
+            lista.Adicionar(new ContaCorrente(874, 55844660));
+            lista.Adicionar(new ContaCorrente(874, 55844668));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+            lista.Adicionar(new ContaCorrente(874, 55845558));
+
+
+
+            Console.ReadLine();
+        }
+
+        static void TestaArrayDeContaCorrente()
+        {
             ContaCorrente[] contas = new ContaCorrente[]
-            {
+{
                 new ContaCorrente(874, 55844660),
                 new ContaCorrente(874, 45548845),
                 new ContaCorrente(874, 78984515)
-            };
+};
 
-            for (int indice= 0; indice < contas.Length; indice++)
+            for (int indice = 0; indice < contas.Length; indice++)
             {
                 ContaCorrente contaAtual = contas[indice];
                 Console.WriteLine($"Conta {indice} {contaAtual.Numero}");
             }
 
-            Console.ReadLine();
         }
 
         static void TestaArrayInt()
