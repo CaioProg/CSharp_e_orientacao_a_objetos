@@ -23,8 +23,7 @@ namespace ByteBank.SistemaAgencia
 
         public void MeuMetodo(string texto = "texto padrão", int numero = 5)
         {
-            Console.WriteLine(texto);
-            Console.WriteLine(numero);
+
         }
 
         public void Adicionar(ContaCorrente item)
@@ -34,6 +33,21 @@ namespace ByteBank.SistemaAgencia
             Console.WriteLine($"Adicionando item na posição {_proximaPosicao}");
             _itens[_proximaPosicao] = item;
             _proximaPosicao++;
+        }
+
+        public void Remover(ContaCorrente item)
+        {
+            int indiceItem = -1;
+
+            for(int i =0; i < _proximaPosicao; i++)
+            {
+                ContaCorrente itemAtual = _itens[i];
+
+                if(itemAtual.Equals(item))
+                {
+
+                }
+            }
         }
 
 
