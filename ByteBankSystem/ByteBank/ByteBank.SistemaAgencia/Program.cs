@@ -14,41 +14,56 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+
+            ListaDeCliente
+            Console.WriteLine(SomarVarios(1, 2, 3, 4, 5, 5, 6, 6, 7));
+            Console.WriteLine(SomarVarios(1, 2, 3, 4));
+
+
+
+            Console.ReadLine();
+        }
+
+
+        static int SomarVarios(params int[] numeros)
+        {
+            int acumulador = 0;
+            foreach (int numero in numeros)
+            {
+                acumulador += numero;
+            }
+            return acumulador;
+        }
+
+        static void TestaListaDeContaCorrente()
+        {
             ListaDeContaCorrente lista = new ListaDeContaCorrente();
 
 
             ContaCorrente contaDoGui = new ContaCorrente(111111, 222222222);
 
-            lista.Adicionar(contaDoGui);
+            ContaCorrente[] contas = new ContaCorrente[]
+            {
+                contaDoGui,
+                new ContaCorrente(874, 55844660),
+                new ContaCorrente(874, 55845558)
+            };
+
+            lista.AdicionarVarios(contas);
+
+            lista.AdicionarVarios(
+                contaDoGui,
+                new ContaCorrente(874, 55844660),
+                new ContaCorrente(874, 55845558),
+                new ContaCorrente(874, 55845558)
+                );
 
 
-            lista.Adicionar(new ContaCorrente(874, 55844660));
-            lista.Adicionar(new ContaCorrente(874, 55844668));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-            lista.Adicionar(new ContaCorrente(874, 55845558));
-
-
-            for(int i = 0; i < lista.Tamanho; i++) 
+            for (int i = 0; i < lista.Tamanho; i++)
             {
                 ContaCorrente itemAtual = lista[1];
                 Console.WriteLine($"Item na posição {i} = Conta {itemAtual.Numero}/{itemAtual.Agencia}");
             }
-
-            Console.ReadLine();
         }
 
         static void TestaArrayDeContaCorrente()
