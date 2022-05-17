@@ -20,6 +20,12 @@ namespace ByteBank.SistemaAgencia
             idades.Adicionar(19);
             idades.AdicionarVarios(5, 8, 9, 19, 25, 56);
 
+            for(int i = 0; i < idades.Tamanho; i++)
+            {
+                int idadeAtual = idades[i];
+            }
+
+
             Console.WriteLine(SomarVarios(1, 2, 3, 4, 5, 5, 6, 6, 7));
             Console.WriteLine(SomarVarios(1, 2, 3, 4));
 
