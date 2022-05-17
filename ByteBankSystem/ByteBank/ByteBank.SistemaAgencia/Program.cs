@@ -15,20 +15,10 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            Lista<int> idades = new Lista<int>();
 
-            ListaDeObject listaDeIdades = new ListaDeObject();
-
-            listaDeIdades.Adicionar(10);
-            listaDeIdades.Adicionar(1);
-            listaDeIdades.Adicionar("um texto qualquer");
-            listaDeIdades.Adicionar(5);
-            listaDeIdades.AdicionarVarios(10, 55, 45, 19);
-
-            for(int i = 0; i < listaDeIdades.Tamanho; i++)
-            {
-                int idade = (int)listaDeIdades[i];
-                Console.WriteLine($"Idade no indice {i}: {idade}");
-            }
+            idades.Adicionar(19);
+            idades.AdicionarVarios(5, 8, 9, 19, 25, 56);
 
             Console.WriteLine(SomarVarios(1, 2, 3, 4, 5, 5, 6, 6, 7));
             Console.WriteLine(SomarVarios(1, 2, 3, 4));
@@ -38,6 +28,23 @@ namespace ByteBank.SistemaAgencia
             Console.ReadLine();
         }
 
+        static void TestaListaDeObject()
+        {
+            ListaDeObject listaDeIdades = new ListaDeObject();
+
+            listaDeIdades.Adicionar(10);
+            listaDeIdades.Adicionar(1);
+            //listaDeIdades.Adicionar("um texto qualquer");
+            listaDeIdades.Adicionar(5);
+            listaDeIdades.AdicionarVarios(10, 55, 45, 19);
+
+            for (int i = 0; i < listaDeIdades.Tamanho; i++)
+            {
+                int idade = (int)listaDeIdades[i];
+                Console.WriteLine($"Idade no indice {i}: {idade}");
+            }
+
+        }
 
         static int SomarVarios(params int[] numeros)
         {
