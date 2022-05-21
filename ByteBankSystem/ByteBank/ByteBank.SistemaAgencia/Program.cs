@@ -24,22 +24,17 @@ namespace ByteBank.SistemaAgencia
             idades.AddRange(new int[] { 1, 2, 3, 4, 7 });
 
 
-            ListExtensoes.AdicionarVarios(idades, 12, 232, 43, 432, 4, 234, 234, 3, 4, 234, 3, 19);
+            // ListExtensoes.AdicionarVarios(idades, 12, 232, 43, 432, 4, 234, 234, 3, 4, 234, 3, 19);
 
-            idades.AdicionarVarios(343, 324, 423);
+            idades.AdicionarVarios(5, 555, 23423, 19);
 
-            int idadeSoma = 0;
+            idades.AdicionarVarios(23233, 234);
+            ListExtensoes.AdicionarVarios(idades, 23233, 234);
             
             for(int i = 0; i < idades.Count; i++)
             {
-                int idadeAtual = idades[i];
+                Console.WriteLine(idades[i]);
             }
-
-
-            Console.WriteLine(SomarVarios(1, 2, 3, 4, 5, 5, 6, 6, 7));
-            Console.WriteLine(SomarVarios(1, 2, 3, 4));
-
-
 
             Console.ReadLine();
         }
