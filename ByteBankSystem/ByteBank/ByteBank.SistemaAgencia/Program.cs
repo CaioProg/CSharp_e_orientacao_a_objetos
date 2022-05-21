@@ -6,7 +6,8 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using ByteBank.Modelos;
 using ByteBank.Modelos.Funcionarios;
-using ByteBank.SistemaAgenciav;
+using ByteBank.SistemaAgencia.Extensoes;
+using ByteBank.SistemaAgencia;
 using Humanizer;
 
 namespace ByteBank.SistemaAgencia
@@ -18,20 +19,12 @@ namespace ByteBank.SistemaAgencia
             List<int> idades = new List<int>();
 
             idades.Add(19);
-            //idades.AdicionarVarios(5, 8, 9, 19, 25, 56);
-            idades.Remove(19);
+            idades.Add(9);
+            idades.Add(90);
 
-            idades.AddRange(new int[] { 1, 2, 3, 4, 7 });
+            idades.AdicionarVarios(45, 90, 40);
 
-
-            // ListExtensoes.AdicionarVarios(idades, 12, 232, 43, 432, 4, 234, 234, 3, 4, 234, 3, 19);
-
-            idades.AdicionarVarios(5, 555, 23423, 19);
-
-            idades.AdicionarVarios(23233, 234);
-            ListExtensoes.AdicionarVarios(idades, 23233, 234);
-            
-            for(int i = 0; i < idades.Count; i++)
+            for (int i = 0; i < idades.Count; i++)
             {
                 Console.WriteLine(idades[i]);
             }
