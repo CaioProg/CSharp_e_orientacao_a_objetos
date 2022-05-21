@@ -19,8 +19,8 @@ namespace ByteBank.SistemaAgencia
             var contas = new List<ContaCorrente>()
             {
                 new ContaCorrente(342, 2342342),
-                new ContaCorrente(340, 2342345),
-                new ContaCorrente(341, 2342391),
+                new ContaCorrente(340, 1),
+                new ContaCorrente(341, 9999999),
                 new ContaCorrente(290, 2342344)
         };
 
