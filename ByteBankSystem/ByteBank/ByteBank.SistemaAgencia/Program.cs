@@ -33,8 +33,7 @@ namespace ByteBank.SistemaAgencia
 
             IEnumerable<ContaCorrente> contasNaoNulas = contas.Where(conta => conta != null);
 
-            IOrderedEnumerable<ContaCorrente> ContasOrdenadas =
-                contasNaoNulas.OrderBy(conta => conta.Numero);
+            var ContasOrdenadas = contasNaoNulas.OrderBy(conta => conta.Numero);
 
             foreach (var conta in ContasOrdenadas)
             {   
