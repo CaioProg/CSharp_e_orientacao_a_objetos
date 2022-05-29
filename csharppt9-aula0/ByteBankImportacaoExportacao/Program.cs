@@ -30,11 +30,16 @@ namespace ByteBankImportacaoExportacao
 
         static void EscreverBuffer(byte[] buffer)
         {
-            foreach (var meubyte in buffer)
-            {
-                Console.Write(meubyte);
-                Console.Write(" ");
-            }
+            var utf8 = Encoding.Default;
+
+            var texto = utf8.GetString(buffer);
+            Console.Write(texto);
+
+            //foreach (var meubyte in buffer)
+            //{
+            //    Console.Write(meubyte);
+            //    Console.Write(" ");
+            //}
         }
     }
 }
